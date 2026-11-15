@@ -1,8 +1,10 @@
 node_modules/
 /generated/prisma
+.docs/
 
 .env
 
 /src/generated/prisma
 
 /generated/prisma
+dist/
